@@ -1,0 +1,196 @@
+@charset "utf-8";
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100..900&display=swap');
+
+body{background-color:#fff;
+    color:#111; line-height:100%; letter-spacing: -0.5px;
+    font-family: "Noto Sans KR", sans-serif;}
+html,body{width:100%; height:100%; margin:0; padding:0; letter-spacing:-0.5px;
+    font-weight:normal;}
+div,p,ul,li,span{margin:0; padding:0;}
+ul,li,ol,dd,dt,dl{list-style:none; margin:0px; padding:0px; line-height:100%;}
+form,fieldset,p{margin:0; padding:0; border:0;}
+img{border:0; vertical-align:middle; outline:none;}
+a{display: block; text-decoration: none; color:inherit;}
+
+.con{
+    width:32%;
+    height:540px;
+    margin-left:4.5%;
+    position:relative;
+    /* overflow: hidden; */
+}
+
+/* 핵심, 의자, 진행 중 main_wrap 우측으로 이동 _ 여백 */
+.con .move{right:-30%;}
+
+
+.con>ul{
+    position:relative;
+}
+
+.con>ul>li{
+    width:100%;
+    height:540px;
+    position:absolute;
+    background-color: #fff;
+    /* border: 1px solid #444; */
+}
+
+.con>ul>li{display: none;}
+.con>ul>li:first-child{display: block;}
+
+.con_top{
+    width:100%;   
+    /* position:relative; */
+}
+
+.con span{
+    width:100%;
+    margin-top:3%;
+    font-size:16px;
+    line-height:16px;
+    font-weight: 700;
+    display: block;
+}
+
+.con p{
+    margin-top:40px;
+    margin-bottom:30px;
+    font-size:12px;
+    line-height:23px;
+    letter-spacing:-0.2%;
+    color:#444;
+}
+
+.ai{
+    width:100%;
+    height:30px;
+    margin-top:-20px;
+    margin-bottom:30px;
+}
+
+.ai li{
+    width:20%;
+    margin-left:2%;
+    float:left;
+}
+
+.ai li:first-child{margin-left:0;}
+
+.ai li img{
+    width:100%;
+}
+
+.color{
+    margin-bottom:40px;
+}
+
+.color li{
+    width:25px;
+    height:25px;
+    margin-left:8px;
+    float:left;
+    border:1px solid #ddd;
+    border-radius: 30px;
+}
+
+.color li:first-child{margin-left:0;}
+
+.con li:nth-child(3) .color li:first-child{background-color: #fff;}
+.con li:nth-child(3) .color li:nth-child(2){background-color: #000;}
+.con li:nth-child(3) .color li:last-child{background-color: #EF5802;}
+
+.con li:nth-child(4) .color li:first-child{background-color: #fff;}
+.con li:nth-child(4) .color li:nth-child(2){background-color: #F5CE84;}
+.con li:nth-child(4) .color li:last-child{background-color: #532708;}
+
+.con_btm{
+    width:100%;
+    /* position:relative; */
+    /* bottom:19%; */
+}
+
+table{
+    font-size:12px;
+    font-weight: 600;
+    color:#111;
+    float:left;
+}
+
+tr td:first-child{
+    width:50px;
+}
+
+td{
+    height:21px;
+}
+
+.qr{
+    width:85px;
+    margin-top:12px;
+    float:right;
+}
+
+.qr img{
+    width:100%;
+}
+
+.btn_wrap{
+    width:100%;
+    /* position:relative; */
+}
+
+.btn{
+    width:31.47%;
+    height:36px;
+    margin-top:40px;
+    margin-left:2%;
+    border:1px solid #888;
+    float:left;
+    font-size:12px;
+    line-height:36px;
+    text-align: center;
+    color:#888;
+}
+
+.btn:first-child{margin-left:0;}
+
+.move .btn{margin-left:0;}
+
+.btn:hover{
+    border:1px solid #7BB5B1;
+    background-color: #7BB5B1;
+    color:#fff;
+}
+
+/* ---------------프롬프트 연습 con 부분--------------- */
+.prompt_wrap{
+    width:100%;
+    height:70%;
+    margin-top:15%;
+    overflow-y: auto;
+}
+
+.prompt_wrap li span{
+    width:100%;
+    height:12px;
+    margin-bottom:20px;
+    font-size:12px;
+    line-height:12px;
+    letter-spacing: -1px;
+    font-weight: 400;
+    color:#222;
+}
+
+.prompt_wrap li{
+    width:100%;
+    height:100%;
+    font-size:10px;
+    line-height:18px;
+    letter-spacing: -1px;
+    word-spacing: 1px;
+    color:#222;
+    display: none;
+}
+
+.prompt_wrap .on_prompt{display:block;}

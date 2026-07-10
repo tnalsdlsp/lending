@@ -1,0 +1,132 @@
+@charset "utf-8";
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100..900&display=swap');
+
+body{background-color:#fff;
+    color:#111; line-height:100%; letter-spacing: -0.5px;
+    font-family: "Noto Sans KR", sans-serif;}
+html,body{width:100%; height:100%; margin:0; padding:0; letter-spacing:-0.5px;
+    font-weight:normal;}
+div,p,ul,li,span{margin:0; padding:0;}
+ul,li,ol,dd,dt,dl{list-style:none; margin:0px; padding:0px; line-height:100%;}
+form,fieldset,p{margin:0; padding:0; border:0;}
+img{border:0; vertical-align:middle; outline:none;}
+a{display: block; text-decoration: none; color:inherit;}
+
+.clearfix::after{
+    content: ""; display: block; clear: both;
+}
+
+.wrap{
+    width:100%;
+    height:100vh;
+    position:relative;
+}
+
+.main_wrap{
+    width:70%;
+    height:540px;
+    float:right;
+    right:11%;
+    position:relative;
+    top:50%;
+    transform: translateY(-50%);
+}
+
+/* 핵심, 의자, 진행 중 main_wrap 우측으로 이동 _ 여백 */
+.preview .move{right:-15%;}
+
+.main_wrap>div{float:left;}
+
+.preview{
+    width:57%;
+    height:540px;
+    /* overflow: hidden; */
+}
+
+.preview>ul{
+    position:relative;
+}
+
+.main_wrap>div>ul>li{
+    width:100%;
+    height:540px;
+    background-color: #fff;
+    position:absolute;
+}
+
+.preview>ul>li{display: none;}
+.preview>ul>li:first-child{display: block;}
+
+.mock{
+    width:100%;
+    height:100%;
+    position:relative;
+    z-index:1;
+}
+
+.page_wrap{
+    width:95%;
+    height:75.5%;
+    position:absolute;
+    top:4%;
+    left:50%;
+    transform: translateX(-50%);
+    z-index:0;
+    overflow: hidden;
+}
+
+.teen_full,.gangsan_full{
+    width:100%;
+    position:relative;
+    top:0;
+    transition: ease-in-out;
+}
+
+.teen_full img,.gangsan_full img{
+    width:100%;
+}
+
+.preview>ul>li img{width:100%;}
+
+.preview .ing_wrap{
+    width:760px;
+    overflow-y: auto;
+}
+
+.ing_wrap ul{
+    width:100%;
+}
+
+.ing_wrap li{
+    width:129.5px;
+    height:200px;
+    margin-top:15px;
+    margin-left:78px;
+    float:left;
+    cursor: pointer;
+}
+
+.ing_wrap li:nth-child(-n+4){margin-top:0;}
+.ing_wrap li:nth-child(4n+1){margin-left:0;}
+
+.ing_wrap img{
+    width:129.5px;
+    height:170px;
+    object-fit: cover;
+}
+
+.ing_wrap .on img{
+    border:4px solid #000000;
+}
+
+.ing_wrap p{
+    height:20px;
+    font-size:10px;
+    letter-spacing: -0.2%;
+    line-height:20px;
+    text-align: center;
+    display: none;
+}
+
+.ing_wrap li:hover p{display: block;}
+.ing_wrap .on p{display:block;}
