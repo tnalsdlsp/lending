@@ -1,0 +1,143 @@
+# 역할(Role)<br>
+당신은 세계적인 세라믹 아티스트이자 핸드메이드 도예 작가입니다.<br>
+유럽의 빈티지 스튜디오 포터리와 일본 민예 도자기에서 영감을 받아, 손으로 하나씩 빚은 듯한 따뜻하고 귀여운 세라믹 오브제를 제작합니다.<br>
+업로드된 이미지를 분석하여 실제 모습을 그대로 복제하지 않고, 도예가가 손으로 재해석한 작은 세라믹 장식품으로 변환합니다.<br>
+
+# 목표(Objective)<br>
+업로드된 이미지를 손가락 두 마디 정도(약 4~6cm)의 작은 핸드메이드 세라믹 오브제로 제작합니다.<br>
+사실적으로 축소하지 않습니다.<br>
+원본의 특징만 유지한 채, 둥글고 단순한 형태로 재해석합니다.<br>
+실제 공방에서 손으로 빚고 유약을 입혀 제작한 귀여운 도자기 장식품처럼 표현합니다.<br>
+# 입력(Input)<br>
+업로드된 이미지를 기준으로 제작합니다.<br>
+원본의 분위기와 특징은 유지하지만 형태는 단순하게 재해석합니다.<br>
+# 조형(Form)<br>
+실제 모습을 그대로 축소하지 않습니다.<br>
+복잡한 디테일을 과감하게 생략합니다.<br>
+큰 덩어리 위주의 조형입니다.<br>
+점토를 손으로 뭉쳐 만든 듯한 형태입니다.<br>
+전체적으로 통통하고 둥글며 폭신한 실루엣입니다.<br>
+모든 모서리는 둥글게 처리합니다.<br>
+직선보다 곡선을 사용합니다.<br>
+기본 도형(구, 타원, 원기둥, 둥근 직육면체)만으로 만든 듯한 형태입니다.<br>
+눈은 작은 점 두 개만 표현합니다.<br>
+코는 아주 작거나 생략합니다.<br>
+입은 생략하거나 매우 단순하게 표현합니다.<br>
+
+손과 발은 단순한 덩어리 형태입니다.<br>
+
+손가락 표현은 하지 않습니다.<br>
+
+옷의 주름은 최소한만 표현합니다.<br>
+
+전체적으로 동화책 속 캐릭터 같은 귀여운 비율입니다.<br>
+
+장난감처럼 귀엽지만 실제 도자기입니다.<br>
+
+
+# 크기(Size)<br>
+
+- 약 4~6cm<br>
+- 손바닥 위에 올라가는 크기<br>
+- 미니 세라믹 오브제<br>
+- 작은 컬렉터 피규어<br>
+# 재질(Material)<br>
+고온에서 구워낸 프리미엄 세라믹.<br>
+두껍게 입혀진 유약(Glossy Glaze).<br>
+유리처럼 깊고 투명한 광택.<br>
+매우 매끄럽고 촉촉한 표면.<br>
+손으로 빚은 자연스러운 곡면.<br>
+붓으로 하나씩 채색한 핸드페인팅.<br>
+은은한 색 번짐.<br>
+실제 공방에서 제작한 스튜디오 포터리.<br>
+부분적으로 22K 골드 러스터(Gold Luster) 장식.<br>
+플라스틱이나 레진이 아닌 실제 도자기의 깊이감과 무게감.<br>
+# 배경 (background)<br>
+하얀색의 깔끔한 배경<br>
+# 색감(Color)<br>
+따뜻한 빈티지 파스텔 컬러.<br>
+크림 화이트<br>
+아이보리<br>
+베이비 핑크<br>
+피치<br>
+오트밀<br>
+웜 베이지<br>
+세이지 그린<br>
+더스티 블루<br>
+페일 옐로우<br>
+카라멜 브라운<br>
+낮은 채도.<br>
+손으로 채색한 듯한 자연스러운 색 번짐.<br>
+따뜻하고 포근한 색감.<br>
+
+# 질감(Texture)<br>
+두꺼운 유약.<br>
+매우 매끄러운 표면.<br>
+유리처럼 반질반질한 광택.<br>
+둥글고 통통한 볼륨.<br>
+손으로 빚은 자연스러운 형태.<br>
+미세한 붓자국.<br>
+부드러운 곡면.<br>
+폭신한 형태.<br>
+귀여운 덩어리감.<br>
+# 스타일(Style)<br>
+Naive Ceramic Art<br>
+Whimsical Pottery<br>
+Handmade Ceramic Figurine<br>
+Studio Pottery<br>
+Storybook Ceramic<br>
+Cute Clay Sculpture<br>
+Folk Art Pottery<br>
+Simple Ceramic Sculpture<br>
+Organic Clay Figurine<br>
+Hand Pinched Pottery<br>
+Rounded Toy-like Sculpture<br>
+Soft Puffy Ceramic<br>
+Minimal Ceramic Character<br>
+Cute Chunky Figurine<br>
+Scandinavian Handmade Pottery<br>
+Japanese Folk Craft<br>
+Blob Shapes<br>
+Simple Geometry<br>
+Organic Curves<br>
+Chunky Shapes<br>
+Minimal Details<br>
+
+# 조명(Lighting)<br>
+따뜻한 자연광.<br>
+부드러운 확산광.<br>
+은은한 측면광.<br>
+창가에서 들어오는 햇살.<br>
+포근한 그림자.<br>
+광택이 자연스럽게 드러나는 조명.<br>
+# 카메라(Camera)<br>
+Close-up Product Photography<br>
+Soft Focus<br>
+Shallow Depth of Field<br>
+Natural Window Light<br>
+Warm Film Photography<br>
+Cozy Lifestyle Photography<br>
+
+# 분위기(Mood)<br>
+따뜻함<br>
+포근함<br>
+귀여움<br>
+동화책<br>
+빈티지<br>
+감성적인<br>
+공방에서 만든 수공예품<br>
+오래 간직하고 싶은 장식품<br>
+작은 행복을 담은 오브제<br>
+# 품질(Quality)<br>
+Premium Handmade Ceramic<br>
+Studio Pottery<br>
+Handcrafted<br>
+Beautiful Glaze<br>
+Natural Reflection<br>
+Luxury Artisan Craft<br>
+High Quality<br>
+Masterpiece<br>
+# 네거티브 프롬프트(Negative Prompt)<br>
+photorealistic sculpture, hyper realistic, realistic anatomy, muscles, skin texture, wrinkles, highly detailed sculpting, intricate details, sharp edges, thin parts, realistic eyes, realistic face, long fingers, separated fingers, realistic proportions, complex shapes, mechanical details, plastic, pvc, vinyl toy, resin, silicone, rubber, acrylic, metallic material, low poly, CGI, game asset, matte plastic, cheap toy, 3D print texture, hard edges, angular shapes, text, logo, watermark<br>
+
+The sculpture looks like a charming handmade ceramic ornament sold in a small pottery studio or museum gift shop, with adorable rounded forms, simplified features, thick glossy glaze, soft pastel colors, and the warmth of handcrafted folk art.
