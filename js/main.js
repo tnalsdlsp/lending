@@ -6,14 +6,14 @@ $(function(){
 
     //mockup hover시 페이지 스크롤 _ teenage
     $('.preview ul li').eq(1).mouseenter(function(){
-        $(this).find('.teen_full').stop().animate({'top':-540+'%'},3700);
+        $(this).find('.teen_full').stop().animate({'top':-530+'%'},3700);
     }).mouseleave(function(){
         $(this).find('.teen_full').stop().animate({'top':0+'%'},3700);
     })
 
     //mockup hover시 페이지 스크롤 _ gangsan
     $('.preview ul li').eq(2).mouseenter(function(){
-        $(this).find('.gangsan_full').stop().animate({'top':-570+'%'},3700);
+        $(this).find('.gangsan_full').stop().animate({'top':-560+'%'},3700);
     }).mouseleave(function(){
         $(this).find('.gangsan_full').stop().animate({'top':0+'%'},3700);
     })
